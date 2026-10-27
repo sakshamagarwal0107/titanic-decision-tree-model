@@ -1,0 +1,16 @@
+Source: public seaborn Titanic CSV
+Rows: 891
+Test rows: 179
+Accuracy: 0.765 (76.5%)
+Confusion matrix (actual rows [0,1], predicted columns [0,1]):
+[[102   8]
+ [ 34  35]]
+
+              precision    recall  f1-score   support
+
+           0      0.750     0.927     0.829       110
+           1      0.814     0.507     0.625        69
+
+    accuracy                          0.765       179
+   macro avg      0.782     0.717     0.727       179
+weighted avg      0.775     0.765     0.751       179
