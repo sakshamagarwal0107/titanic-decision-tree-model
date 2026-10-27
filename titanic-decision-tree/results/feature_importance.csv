@@ -1,6 +1,0 @@
-feature,importance
-categorical__sex_female,0.606713400684676
-numeric__pclass,0.2110412962673685
-numeric__fare,0.09219181189978935
-numeric__age,0.09005349114816602
-categorical__sex_male,0.0
